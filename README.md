@@ -1,2 +1,2 @@
 # cpp-assignments
-C++ assignments for Sem 2
+C++ assignments and experiments for Sem 2
